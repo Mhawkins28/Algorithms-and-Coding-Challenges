@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Coding practice is essential for becoming a better programmer and acing coding interviews. This repository contians the problems and solutions to a diverse set of practice questions to hone my coding skills.
+This repository contians the problems and solutions to a diverse set of practice questions to hone my coding skills.
 
 Feel free to explore the various folders and access practice questions and solutions categorized by the platform they originate from.
 
