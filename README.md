@@ -5,7 +5,7 @@ This repository contians the problems and solutions to a diverse set of practice
 Feel free to explore the various folders and access practice questions and solutions categorized by the platform they originate from.
 
 
-## Folder Structure
+## Folder Structure 
 The repository is organized into folders based on the coding platforms:
 
 - **[HackerRank](https://www.hackerrank.com/interview/preparation-kits):** Contains questions and solutions from HackerRank's interview preperation kit.
